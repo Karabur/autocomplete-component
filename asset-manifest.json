@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/autocomplete-component/static/css/main.6f7a8ede.chunk.css",
+    "main.js": "/autocomplete-component/static/js/main.871e3066.chunk.js",
+    "main.js.map": "/autocomplete-component/static/js/main.871e3066.chunk.js.map",
+    "runtime-main.js": "/autocomplete-component/static/js/runtime-main.27a8fcd6.js",
+    "runtime-main.js.map": "/autocomplete-component/static/js/runtime-main.27a8fcd6.js.map",
+    "static/js/2.d769c7b8.chunk.js": "/autocomplete-component/static/js/2.d769c7b8.chunk.js",
+    "static/js/2.d769c7b8.chunk.js.map": "/autocomplete-component/static/js/2.d769c7b8.chunk.js.map",
+    "static/js/3.5246e31c.chunk.js": "/autocomplete-component/static/js/3.5246e31c.chunk.js",
+    "static/js/3.5246e31c.chunk.js.map": "/autocomplete-component/static/js/3.5246e31c.chunk.js.map",
+    "index.html": "/autocomplete-component/index.html",
+    "static/css/main.6f7a8ede.chunk.css.map": "/autocomplete-component/static/css/main.6f7a8ede.chunk.css.map",
+    "static/js/2.d769c7b8.chunk.js.LICENSE.txt": "/autocomplete-component/static/js/2.d769c7b8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27a8fcd6.js",
+    "static/js/2.d769c7b8.chunk.js",
+    "static/css/main.6f7a8ede.chunk.css",
+    "static/js/main.871e3066.chunk.js"
+  ]
+}
