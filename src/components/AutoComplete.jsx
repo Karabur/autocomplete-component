@@ -43,9 +43,7 @@ export default class AutoComplete extends React.Component {
 	onBlur = () => {
 		if (this.state.choosenItem) {
 			this.props.onChange?.(this.state.choosenItem)
-			this.setState({
-				search: this.state.choosenItem.title,
-			})
+			this.setState((state) => ({ search: state.choosenItem.title }))
 		}
 		this.setState({ showList: false, choosenItem: null })
 	}
