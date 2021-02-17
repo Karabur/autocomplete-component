@@ -21,7 +21,6 @@ export default function withDataLoading(Component) {
 
 		onChange = (option) => {
 			let find = this.state.characters.find((char) => char.id === option.id)
-			console.log('---> onChange <---', find)
 			this.props.onChange?.(find)
 		}
 
