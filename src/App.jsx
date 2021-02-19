@@ -11,6 +11,7 @@ function App() {
 	const [selectedChar, setSelectedChar] = useState(null)
 	return (
 		<div className={styles.container}>
+			<div className={styles.dogHolder} />
 			<h2>Choose your character</h2>
 			<div className={styles.inputs}>
 				<div>
